@@ -33,7 +33,7 @@
 
 import { TDepartment } from "./types";
 
-export const departaments: TDepartment = {
+export let departments: TDepartment = {
   tech: [
     {
       name: "Проект Автоматизации",

@@ -1,4 +1,4 @@
-import { departaments } from './data';
+// import { departaments } from './data';
 // import { TSeason } from "./types"
 // import { seasons } from "./data"
 
@@ -18,7 +18,5 @@ import { departaments } from './data';
 // }
 
 import { TDepartment, TDetail, TParams } from "./types";
-// import { departaments } from "./data";
 
-// const Calculator = () => {
-// }
+const Calculator = () => {};

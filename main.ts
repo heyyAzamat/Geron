@@ -1,15 +1,14 @@
+
 // Импорт по умолчанию
 
 // import { addTest, test } from "./src/scripts/geron"
 // addTest()
 // console.log(test)
 
-
 // Импорт как объект
 
 // import * as geron from "./src/scripts/geron"
 // geron.addTest()
-
 
 // import name from "./src/scripts/geron"
 // console.log(name)
@@ -34,3 +33,12 @@
 // import { finishMaxSeason } from "./src/scripts/lesson_8/working"
 // console.log("Самый прибыльный сезон: ", finishMaxSeason)
 
+
+import { departments } from "./src/scripts/data";
+Object.entries(departments).forEach(([keys, values]) =>{
+    values.forEach((item) =>{
+        item.details.forEach((detail) =>{
+            
+        })
+    })
+})
