@@ -14,7 +14,6 @@
 // import name from "./src/scripts/geron"
 // console.log(name)
 
-
 // const office = {
 //     tech: {
 //         employersCount: 10,

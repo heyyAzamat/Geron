@@ -30,3 +30,5 @@ export const seasons: TSeasons = {
     newProjects: 10,
   },
 };
+
+
