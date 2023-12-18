@@ -31,5 +31,6 @@
 //     console.log(part, partInfo.avgSallary)
 // })
 
-import { finishMaxSeason } from "./src/scripts/lesson_8/working"
-console.log("Самый прибыльный сезон: ", finishMaxSeason)
+// import { finishMaxSeason } from "./src/scripts/lesson_8/working"
+// console.log("Самый прибыльный сезон: ", finishMaxSeason)
+
